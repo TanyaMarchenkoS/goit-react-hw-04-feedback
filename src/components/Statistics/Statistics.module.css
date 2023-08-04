@@ -1,0 +1,15 @@
+.positiveFeedback {
+  color: black;
+}
+
+.statisticGood {
+    color: green;
+}
+
+.statisticNeutral {
+    color: rgb(182, 182, 41);
+}
+
+.statisticBad {
+    color: red;
+}

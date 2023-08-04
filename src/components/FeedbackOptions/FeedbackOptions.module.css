@@ -1,0 +1,23 @@
+.buttonsWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+.buttons {
+  color: rgb(182, 182, 41);
+  border: 2px solid  rgb(182, 182, 41);
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 5px;
+  width: 80px;
+}
+
+.buttons:first-child {
+  color: green;
+  border: 2px solid green;
+}
+
+.buttons:last-child {
+  color: red;
+  border: 2px solid red;
+}

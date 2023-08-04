@@ -1,0 +1,8 @@
+.messageWrapper {
+  width: 200px;
+  margin: 0 auto;
+  padding-left: 10px;
+}
+.message {
+  color: #393e46;
+}
